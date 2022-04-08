@@ -1,0 +1,58 @@
+{
+  "dvdInformation": [
+    {
+      "id": 1,
+      "contentName":  "Fate/stay night Movie: Heaven's Feel - I. Presage Flower",
+      "image": "https://static.wikia.nocookie.net/typemoon/images/7/71/Fate_stay_night_2006_Poster.jpg/revision/latest?cb=20190511032939",
+      "episodes": 3,
+      "folder": "Fate",
+      "filename": "fate",
+      "fileextention": ".mp4"
+    },
+    {
+      "id": 2,
+      "contentName":  "Fate/stay night Movie: Heaven's Feel - I. Presage Flower",
+      "image": "https://static.wikia.nocookie.net/typemoon/images/7/71/Fate_stay_night_2006_Poster.jpg/revision/latest?cb=20190511032939",
+      "episodes": 10,
+      "folder": "Fate",
+      "filename": "fate",
+      "fileextention": ".mp4"
+    },
+    {
+      "id": 3,
+      "contentName":  "Fate/stay night Movie: Heaven's Feel - I. Presage Flower",
+      "image": "R.drawable.fate1",
+      "episodes": 7,
+      "folder": "Fate",
+      "filename": "fate",
+      "fileextention": ".mp4"
+    },
+    {
+      "id": 4,
+      "contentName":  "Fate/stay night Movie: Heaven's Feel - I. Presage Flower",
+      "image": "R.drawable.fate1",
+      "episodes": 1,
+      "folder": "Fate",
+      "filename": "fate",
+      "fileextention": ".mp4"
+    },
+    {
+      "id": 5,
+      "contentName":  "Fate/stay night Movie: Heaven's Feel - I. Presage Flower",
+      "image": "R.drawable.fate1",
+      "episodes": 1,
+      "folder": "Fate",
+      "filename": "fate",
+      "fileextention": ".mp4"
+    },
+    {
+      "id": 6,
+      "contentName":  "Fate/stay night Movie: Heaven's Feel - I. Presage Flower",
+      "image": "R.drawable.fate1",
+      "episodes": 1,
+      "folder": "Fate",
+      "filename": "fate",
+      "fileextention": ".mp4"
+    }
+  ]
+}
