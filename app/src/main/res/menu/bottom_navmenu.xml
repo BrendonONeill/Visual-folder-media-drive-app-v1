@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menuAll"
+        android:icon="@drawable/ic_all"
+        android:title="All Files"/>
+    <item android:id="@+id/menuTv"
+    android:icon="@drawable/ic_tv"
+    android:title="Tv"/>
+    <item android:id="@+id/placeholder"
+        android:enabled="false"
+        android:title=""
+        />
+    <item android:id="@+id/menuFilm"
+        android:icon="@drawable/ic_movie"
+        android:title="Film"/>
+
+    <item android:id="@+id/menuSearch"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="Search"
+        />
+</menu>
