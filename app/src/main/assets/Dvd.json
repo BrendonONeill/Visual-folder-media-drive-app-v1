@@ -1,0 +1,85 @@
+{
+  "dvdInformation": [
+    {
+      "id": 1,
+      "contentName":  "The Seven Deadly Sins: Dragon's Judgement",
+      "image": "https://cdn.myanimelist.net/images/anime/1011/111551.jpg",
+      "episodes": 12,
+      "folder": "7 Deadly Sins",
+      "filename": "7ds",
+      "fileextention": ".mp4"
+    },
+    {
+      "id": 2,
+      "contentName":  "Attack on Titan: The Final Season",
+      "image": "https://cdn.myanimelist.net/images/anime/1000/110531.jpg",
+      "episodes": 16,
+      "folder": "Attack on Titan: Final Season",
+      "filename": "ATFFS",
+      "fileextention": ".mp4"
+    },
+    {
+      "id": 3,
+      "contentName":  "Food Wars! The Fifth Plate",
+      "image": "https://cdn.myanimelist.net/images/anime/1756/108000.jpg",
+      "episodes": 5,
+      "folder": "food Wars ",
+      "filename": "FW",
+      "fileextention": ".mp4"
+    },
+    {
+      "id": 4,
+      "contentName":  "Jujutsu Kaisen",
+      "image": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg",
+      "episodes": 24,
+      "folder": "Jujutsu-Kaisen",
+      "filename": "jk",
+      "fileextention": ".mp4"
+    },
+    {
+      "id": 5,
+      "contentName":  "The King's Avatar 2",
+      "image": "https://cdn.myanimelist.net/images/anime/1573/109220.jpg",
+      "episodes": 3,
+      "folder": "kings",
+      "filename": "KA",
+      "fileextention": ".mp4"
+    },
+    {
+      "id": 6,
+      "contentName":  "Re:ZERO -Starting Life in Another World- Season 2",
+      "image": "https://cdn.myanimelist.net/images/anime/1444/108005.jpg",
+      "episodes": 12,
+      "folder": "Fate",
+      "filename": "fate",
+      "fileextention": ".mp4"
+    },
+    {
+      "id": 7,
+      "contentName":  "Jujutsu Kaisen",
+      "image": "https://cdn.myanimelist.net/images/anime/1171/109222.jpg",
+      "episodes": 12,
+      "folder": "Jujutsu-Kaisen",
+      "filename": "jk",
+      "fileextention": ".mp4"
+    },
+    {
+      "id": 8,
+      "contentName":  "The King's Avatar 2",
+      "image": "https://cdn.myanimelist.net/images/anime/1573/109220.jpg",
+      "episodes": 12,
+      "folder": "kings",
+      "filename": "KA",
+      "fileextention": ".mp4"
+    },
+    {
+      "id": 9,
+      "contentName":  "Re:ZERO -Starting Life in Another World- Season 2",
+      "image": "https://cdn.myanimelist.net/images/anime/1444/108005.jpg",
+      "episodes": 12,
+      "folder": "Fate",
+      "filename": "fate",
+      "fileextention": ".mp4"
+    }
+  ]
+}
